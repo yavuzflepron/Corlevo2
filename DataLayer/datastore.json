@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "corlevo-test",
+  "private_key_id": "dd04122c0d080c2dad0594e2b4c82d501af3a91a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCh+arbouZ2qwJd\nd4fDd3c12tXZVcbAnjaHk1Z4dlzlu2qu4dFQr8AnHBBmqz/QoMAeGyMG5W1tNhgF\nIzHRQOofNXUjl0gm7rQCMmDARnxYoFKTZbP6vYEzJgElIA4G9SUVdjrBRsQs4IUF\nW9Ryh2xX/VUekzxGal3PAl2JK0yP7TowyMkIAkPUQG0Cz6QBglvvgRaQ+N6T7BEr\niqbycX73EkUhMgvzeHLv6JjXl/U+Gj/BbaY4MrH1SEsyKvZXamFQO9oo8hxXKIYA\nBy1f62sGFwnpR+/HjAIv1Oqmiqi8oz+/GitH79J+d7gQhRAVXQe/Jg6gzu46r1in\nRRatkeDdAgMBAAECggEADK13b4hxBGG/JiSoZiawGHF/4mphy4q2lubz0irle3+v\nSm/XS7rtzcHXEMofjQs/7jtOgwgrB+y/dYt7Jzcu+/FZsUbyeUWepjteMj5yFhe6\nTtobe6kgdynm1gqLvoSqeeMOlzkcOqz6DGDTIIGz+7ES2/lHMvW5UO4M9yMB85PM\nRnPCEwpaIib3E/qebHtE0O1i6AOFcKhO23wqaomOIC2yrFzAgbJxXZ2L+SdXvHQn\nVvEdJiVqfqui+dnCPgBr7Sgjq9IM9Z9EtVJOdlZQqTKLiyW3gbHeor9Di6Sm85Cn\nlK04YeH2BkJGocgqCvM3Da7Q4IWPIzV6hMox0fHQcQKBgQDeIIjJfJD2UcV8dZ3E\njui3KOGkWiOjuNGDKJRp5iiHyVg63/HaCFne1Q7IuNwGAfudtbq+mp23xRCPfx11\nFyIIWr3pmHqu7hxTY4Wje9AFQ0AJ8BgC7dg0+d1U5fJirmT7C43Mt1AKPW9ig7cA\ng4qqxuOjeLrLyOMeTQmr1hFWtQKBgQC6rOhcCH0/NgRl6V0sIBf4KU37ClGzheZA\nRCPIrcMH6TANsguS/ameDvosae3FxZ67C2bXYfbdFoimltfmU1bMnY1FFaIiV0tQ\nZs4OtmDE1YUW/v0Jc6XcZts/d5IHz23yllAA4jSivNZ7bUYMBT6jGEGxIoRkrudQ\n+NokcMLSiQKBgHoqUpDeHawbVQ4acebE4mC57z/BA5Dr+O61xspndysXJZtbx1wu\n856Gd1cVtIzpUkVuyYJC7zM/AtipBL59No55ubFb1z2WX6XNOparZcE/N10/2zTh\nMuQP+BbVUPXNDGS1+gr5VuAK4dPAtUlnD0DVmiUyJSonFiJ4JDWJyodxAoGAQiJT\nx5cyWByY/knoumM8Wqy3dcK4IzPC2O3LB6OXvsu8PH3hX9gCKX8A3o9Ar5pNm9J0\nQsXwIW+ERhCWuIC59Y+zps/9OtFWW0uwoMG4EsPafMUlfB2+mxDNh/SihaXVO+ZI\nvadmImloSx3xfPy2ri0/yLOD1++m/6bKEbLpMpECgYEAgWdWoGDwkT3nocHJi7VD\nFtPW48LMv3lATvwhUwrt4XlW8Qgvlv05zB29vK8+YmZ5zKX2LRf+C8WMETXxtz7E\nhMVOxavMzbz7SvBNcxhRddCxM0nZTuJ2bZBjzI6rNt5eZEjWd9X2ZXjNVcrj0+Gm\npRtRaZuB28RshN7wV6BRri8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastore@corlevo-test.iam.gserviceaccount.com",
+  "client_id": "113197300342277739275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore%40corlevo-test.iam.gserviceaccount.com"
+}
